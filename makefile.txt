@@ -1,0 +1,2 @@
+g++ main.cpp decodeMd5.cpp md5.cpp -o md5_sample && ./md5_sample
+
